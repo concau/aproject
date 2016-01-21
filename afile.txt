@@ -11,3 +11,5 @@ this is the fourth line added by a windows machine.
 line 5 from my mac
 
 line 6 from my mac showing john !
+
+adding another line showing john from windows ...
